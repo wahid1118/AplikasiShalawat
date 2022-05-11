@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".isishalawat">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="384dp"
+        android:layout_height="707dp"
+        android:text="إِلهِي لََسْتُ لِلْفِرْدَوْسِ أَهْلاَ
+
+Ilaahii lastu lil firdausi ahlaan
+وَلاَ أَقوى عَلَى النّارِ الجَحِيم
+wa laa aqwaa ‘alaa naaril jahiimi
+Wahai Tuhanku ! Aku bukanlah ahli surga, tapi aku tidak kuat dalam neraka Jahim
+فَإنّكَ غَافِرُ الذنْبِ العَظِيْم
+Fa hablii taubatan waghfir zunuubii
+ فهَبْ لِي تَوْبَةً وَاغْفِرْ ذنوبِي
+fa innaka ghaafirudzdzambil ‘azhiimi
+Maka berilah aku taubat (ampunan) dan ampunilah dosaku, sesungguhnya engkau Maha Pengampun dosa yang besar
+ذنوبِي مِثلُ أَعْدَادٍ الرّمَالِ
+Dzunuubii mitslu a’daadir rimaali
+فَهَبْ لِي تَوْبَةً يَاذَاالجَلاَل
+fa hablii taubatan yaa dzaaljalaali"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="16dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
